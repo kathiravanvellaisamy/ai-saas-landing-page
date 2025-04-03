@@ -35,7 +35,7 @@ const NavBar = () => {
           <div className="min-w-max inline-flex relative">
             <a href="/" className="relative flex gap-2 items-center">
               <img src={Logo} className="w-10 h-10" alt="automind" />
-              <h2 className="text-lg sm:text-xl font-bold inline-flex text-heading-1">
+              <h2 className="text-lg sm:text-2xl font-bold inline-flex text-heading-1">
                 AutoMind
               </h2>
             </a>
