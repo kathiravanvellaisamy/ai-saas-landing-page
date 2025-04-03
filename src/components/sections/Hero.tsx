@@ -1,6 +1,6 @@
 import { Container } from "../shared/Container";
 import { Paragraph } from "../shared/Paragraph";
-import HeroImage from "../../assets/hero.png";
+
 import { IoMdMail } from "react-icons/io";
 import { Button } from "../shared/Button";
 import { FaArrowRight } from "react-icons/fa";
